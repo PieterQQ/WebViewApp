@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MotoZysk</string>
+    <string name="dc">"Brak połączenia z internetem"</string>
+</resources>
